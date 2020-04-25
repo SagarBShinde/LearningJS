@@ -1,0 +1,20 @@
+{
+  "name": "LearningJS",
+  "version": "1.0.0",
+  "description": "Collection of Javascript learning codes  Reference You Don't Know JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SagarBShinde/LearningJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SagarBShinde/LearningJS/issues"
+  },
+  "homepage": "https://github.com/SagarBShinde/LearningJS#readme"
+}
